@@ -38,7 +38,7 @@ def mc_sim(sims, days, df):
         simulation_df[x] = price_series
 
     # FILL OUT THE REST OF THE CODE. The above code has given you 'sims' of simulations run 'days' days into the future.
-    # Your task is to return the expected price on the last day +/- one standard deviation.
+    # Your task is to return the expected price on the last day +/- the 95% confidence interval.
     return
 
 def main():

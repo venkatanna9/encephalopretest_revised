@@ -62,4 +62,4 @@ if __name__ == '__main__':
     main()
     above, under = main()
     print("The expected price on the last day + 95% confidence interval is: ", above)
-    print("The expected price on the last day + 95% confidence interval is: ", under)
+    print("The expected price on the last day - 95% confidence interval is: ", under)

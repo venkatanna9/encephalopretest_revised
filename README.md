@@ -4,7 +4,7 @@
 # Part 1: git
 - fork this repository
 - create a branch, name it `exam/<your name>` (e.g. `exam/wrisher`)
-- edit this .md file, change "William Risher" to your name.
+- edit this .md file, change "Venkat Anna" to your name.
 - commit and push your changes to the remote
 
 # Part 2: python
